@@ -9,6 +9,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 set(MENU_LIB menu_lib)
 set(BALANCE_LIB balance_lib)
 set(DEPOSIT_LIB deposit_lib)
+set(WITHDRAW_LIB withdraw_lib)
 set(EXECUTABLE_NAME ATM)
 
 add_subdirectory(src)
