@@ -7,5 +7,5 @@ void show_menu()
     std::cout << "2. Deposit\n";
     std::cout << "3. Withdraw\n";
     std::cout << "4. Exit\n";
-
+    std::cout << "*********************\n";
 }
