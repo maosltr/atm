@@ -8,7 +8,7 @@ double withdraw_money(double balance, double withdraw_amount)
 
     if (withdraw_amount > balance)
     {
-        std::cout << "Insufisiant found: " << balance << std::endl;
+        std::cout << "Insufisiant funds: " << balance << std::endl;
     }
     else
     {
